@@ -183,7 +183,7 @@ footer{
 }
 img{
     position: relative;
-    border: 2px solid palevioletred;
+    border: solid 2px  palevioletred;
 }
 #foto1{ /*Las siguientes son para colocar las imágenes de los comentarios*/
     left: 20%;
@@ -194,7 +194,7 @@ img{
     z-index: 0;
 }
 #foto3{
-    left: -5%;
+    left: 0%;
     z-index: 0;
 }
 #foto4{
